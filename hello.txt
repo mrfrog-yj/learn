@@ -2,3 +2,5 @@
 world
 cccccccccc1
 new branch
+conflict solver
+confilict from feature
