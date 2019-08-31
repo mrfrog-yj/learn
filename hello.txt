@@ -3,3 +3,6 @@ world
 cccccccccc1
 new branch
 xxxxxxxxxxxxxxx
+conflict solver
+confilict from feature
+
